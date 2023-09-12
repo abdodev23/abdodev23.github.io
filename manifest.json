@@ -1,0 +1,35 @@
+{
+    "name": "Farahy",
+    "short_name": "Farahy",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Farahy offers Egyptian brides an all-in-one solution to their wedding needs, guiding them through the whole process",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/192.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/512.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/192.jpg",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/512.jpg",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
